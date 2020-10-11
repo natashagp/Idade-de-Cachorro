@@ -13,6 +13,7 @@
 		6FD900602533948E006EFD60 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6FD9005E2533948E006EFD60 /* Main.storyboard */; };
 		6FD9006225339492006EFD60 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FD9006125339492006EFD60 /* Assets.xcassets */; };
 		6FD9006525339492006EFD60 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6FD9006325339492006EFD60 /* LaunchScreen.storyboard */; };
+		6FD90072253398C0006EFD60 /* dog.png in Resources */ = {isa = PBXBuildFile; fileRef = 6FD90071253398C0006EFD60 /* dog.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6FD9006125339492006EFD60 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6FD9006425339492006EFD60 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6FD9006625339492006EFD60 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6FD90071253398C0006EFD60 /* dog.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dog.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		6FD900572533948E006EFD60 /* IdadeDeCachorro */ = {
 			isa = PBXGroup;
 			children = (
+				6FD90071253398C0006EFD60 /* dog.png */,
 				6FD900582533948E006EFD60 /* AppDelegate.swift */,
 				6FD9005A2533948E006EFD60 /* SceneDelegate.swift */,
 				6FD9005C2533948E006EFD60 /* ViewController.swift */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6FD90072253398C0006EFD60 /* dog.png in Resources */,
 				6FD9006525339492006EFD60 /* LaunchScreen.storyboard in Resources */,
 				6FD9006225339492006EFD60 /* Assets.xcassets in Resources */,
 				6FD900602533948E006EFD60 /* Main.storyboard in Resources */,
